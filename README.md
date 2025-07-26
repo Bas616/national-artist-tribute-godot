@@ -4,7 +4,7 @@ This repository contains the complete source code and assets for "Memory's Stage
 
 The project was developed entirely within the Godot Engine, blending 2D sprites and 3D environments into a single, continuous scene (`scene_1_genesis.tscn`). The visual narrative aims to create a dream-like journey, moving from serene memory to a darker, introspective exploration, and finally to a revelation of her lasting impact.
 
-[![Memory's Stage: A Godot Engine Tribute](https://img.youtube.com/vi/5_Y0QBYpqnE&t/0.jpg)](https://www.youtube.com/watch?v=5_Y0QBYpqnE&t)
+![Memory's Stage: A Godot Engine Tribute](https://www.youtube.com/watch?v=5_Y0QBYpqnE&t)
 
 ## Technical Details
 - **Engine:** Godot 4.x

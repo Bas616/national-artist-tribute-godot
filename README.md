@@ -4,7 +4,7 @@ This repository contains the complete source code and assets for "Memory's Stage
 
 The project was developed entirely within the Godot Engine, blending 2D sprites and 3D environments into a single, continuous scene (`scene_1_genesis.tscn`). The visual narrative aims to create a dream-like journey, moving from serene memory to a darker, introspective exploration, and finally to a revelation of her lasting impact.
 
-[![[Godot Engine] Memory's Stage: A Digital Tribute to a Thai National Artist](http://img.youtube.com/vi/3Z1k7b6K6A8/0.jpg)](http://www.youtube.com/watch?v=3Z1k7b6K6A8)
+[![Memory's Stage: A Godot Engine Tribute](https://img.youtube.com/vi/5_Y0QBYpqnE&t/0.jpg)](https://www.youtube.com/watch?v=5_Y0QBYpqnE&t)
 
 ## Technical Details
 - **Engine:** Godot 4.x
@@ -15,16 +15,16 @@ The project was developed entirely within the Godot Engine, blending 2D sprites 
 This project was made possible by the use of incredible assets from the community. Proper credit is given below:
 
 - **3D Models:**
- - WoodenDockSet, HouseAndPropsPack, AlleySets by Loafbrr ([itch.io](https://loafbrr.itch.io/))
+  - WoodenDockSet, HouseAndPropsPack, AlleySets by Loafbrr ([itch.io](https://loafbrr.itch.io/))
 - **Textures:**
- - Ground040_1K-JPG, morn.jpg from AmbientCG ([ambientcg.com](https://ambientcg.com/))
+  - Ground040_1K-JPG, morn.jpg from AmbientCG ([ambientcg.com](https://ambientcg.com/))
 - **Audio:**
- - Narration generated with Google AI Studio (Gemini 2.5 Pro Preview).
- - Music & Sound Effects from Taira Komori ([taira-komori.jpn.org](https://taira-komori.jpn.org/)) and YouTube Audio Library.
+  - Narration generated with Google AI Studio (Gemini 2.5 Pro Preview).
+  - Music & Sound Effects from Taira Komori ([taira-komori.jpn.org](https://taira-komori.jpn.org/)) and YouTube Audio Library.
 - **Godot Addons:**
- - Wigglebone by detomon ([GitHub](https://github.com/detomon/wigglebone))
- - Virtual Joystick by MarcoFazioRandom ([GitHub](https://github.com/MarcoFazioRandom/Virtual-Joystick-Godot))
+  - Wigglebone by detomon ([GitHub](https://github.com/detomon/wigglebone))
+  - Virtual Joystick by MarcoFazioRandom ([GitHub](https://github.com/MarcoFazioRandom/Virtual-Joystick-Godot))
 - **Imagery:**
- - Historical photos of Kru Suwannee Chalanukroh are used for educational and tribute purposes, sourced from various public online articles (TNN Thailand, Facebook).
+  - Historical photos of Kru Suwannee Chalanukroh are used for educational and tribute purposes, sourced from various public online articles (TNN Thailand, Facebook).
 
 This project is shared for educational purposes.
